@@ -1,9 +1,8 @@
 <?php
 // Telegram Bot API Token
-//$botToken = '6999104960:AAE49SYl3Ys_jkXIzfmp5el0DXfXjbmRA4w';
-$botToken = '7457318200:AAGklw5cPix9BFxPDO6_f8fiEY2PjqXzvdU';
+$botToken = '6999104960:AAE49SYl3Ys_jkXIzfmp5el0DXfXjbmRA4w';
+//$botToken = '7457318200:AAGklw5cPix9BFxPDO6_f8fiEY2PjqXzvdU';
 // Telegram Chat ID where you want to receive the messages
-//$chatID = '5358329332';
 $chatID = '5358329332';
 
 // Function to send message to Telegram bot
